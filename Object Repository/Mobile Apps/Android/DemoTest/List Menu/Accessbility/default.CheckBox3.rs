@@ -3,9 +3,9 @@
    <description></description>
    <name>default.CheckBox3</name>
    <tag></tag>
-   <elementGuidId>ecca2c6d-e600-4f76-9109-24a139dde3d2</elementGuidId>
+   <elementGuidId>1726ce97-cac5-4bf7-933a-373caa7c8427</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
-   <locator>/hierarchy/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.ListView/android.widget.LinearLayout[3]/android.widget.CheckBox</locator>
+   <locator>/hierarchy/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.ListView/android.widget.LinearLayout[4]/android.widget.CheckBox</locator>
    <locatorStrategy>XPATH</locatorStrategy>
 </MobileElementEntity>
